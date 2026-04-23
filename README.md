@@ -7,6 +7,11 @@ Track 4: Interactive Data Analysis Tool (Streamlit)
 
 ---
 
+## Live Demo (Product Link)
+https://expense-analyzer-unwywtunchhkvucze3qm64.streamlit.app/
+
+---
+
 ## 1. Project Overview
 This is an individual mini-assignment for ACC102. I built a small interactive Python data tool using Streamlit to analyze department expense structures. The tool allows users to edit expense amounts, upload their own Excel files, view real-time pie charts, and export the report as an Excel file.
 
@@ -28,9 +33,14 @@ To help accounting students and small business managers quickly understand how d
 5. openpyxl (3.1.5)
 
 ## 4. How to Run This Tool
+### Online Version 
+Directly use the hosted tool:
+https://expense-analyzer-unwywtunchhkvucze3qm64.streamlit.app/
+
+### Local Version
 1. Clone or download this repository
-2. Install required packages:pip install streamlit pandas plotly openpyxl
-3. Run the app:streamlit run expense_analyzer.py
+2. Install required packages: pip install streamlit pandas plotly openpyxl
+3. Run the app: streamlit run expense_analyzer.py
 4. Open the local URL in your browser
 
 ## 5. Core Features
